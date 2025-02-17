@@ -1,0 +1,2 @@
+http://localhost:8080/articles/search?query=全文检索
+http://localhost:8080/articles?title=PostgreSQL 全文检索&content=本文介绍了如何在 PostgreSQL 中实现全文检索，包括分词、索引和查询等内容。
